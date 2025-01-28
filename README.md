@@ -1,0 +1,2 @@
+# Lushscape
+A plant website
